@@ -22,9 +22,9 @@ I work with a wide range of technologies, including:
 📍 **Mapúa University** – Bachelor of Science in **Computer Science**  
 
 ## 📬 Contact  
-📧 **Email:** [your-email@example.com]  
-💼 **GitHub:** [github.com/neilbragsguzman](#)  
-🌐 **Portfolio:** [your-portfolio-link.com](#)  
+📧 **Email:** [neilbragsg@gmail.com]  
+💼 **GitHub:** [https://github.com/chro11os](#)  
+🌐 **Portfolio:** [https://chrollos.com/](#)  
 
 ---
 
