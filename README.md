@@ -7,7 +7,7 @@
 ## 💻 Tech Stack  
 I work with a wide range of technologies, including:  
 
-- **Front-End**: Angular, HTML, CSS, JavaScript  
+- **Front-End**: Angular, HTML, CSS, JavaScript, React
 - **Back-End**: Laravel, Spring Boot, Java, PHP  
 - **Programming Languages**: C++, Java, PHP, JavaScript  
 - **Databases**: SQLite, Firebase, MongoDB  
